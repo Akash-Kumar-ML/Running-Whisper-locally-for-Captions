@@ -1,0 +1,1 @@
+This is the file related to the Open AI's whisper tutorial I made on my youtube channel. If you dont know the context of it , its very difficult to convey it in a text file. Its just code thats let you run the Whisper model on your pc locally with the help of your CPU only.
